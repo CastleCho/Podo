@@ -1,14 +1,17 @@
 # 🍇 결식아동을 위한 기프티콘 기부 플랫폼 포도
 
-<img width="1269" alt="스크린샷 2024-01-15 오후 3 36 11" src="https://github.com/CastleCho/Podo/assets/109195660/f555dde4-ffb2-4e2f-83b5-60c1689472cd">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 36 11" src="https://github.com/CastleCho/Podo/assets/109195660/f555dde4-ffb2-4e2f-83b5-60c1689472cd">
 
 <br>
 
 ## 프로젝트 동기
 
-<img width="939" alt="스크린샷 2024-01-15 오후 3 56 00" src="https://github.com/CastleCho/Podo/assets/109195660/b14eb734-5892-480b-8b61-5b6ef3ff4316">
+- 지속적인 기부 참여율 하락과 더불어 기부처에 대한 투명성을 부여하고 싶었습니다.
+- 식사 뿐만 아니라 여러 문화경험을 아동들에게 제공하고 급식 카드에 대한 사회적 낙인을 해결하고 싶었습니다.
+  
+<img width="800" alt="스크린샷 2024-01-15 오후 3 56 00" src="https://github.com/CastleCho/Podo/assets/109195660/b14eb734-5892-480b-8b61-5b6ef3ff4316">
 
-<img width="970" alt="스크린샷 2024-01-15 오후 3 57 00" src="https://github.com/CastleCho/Podo/assets/109195660/bb35ae77-2a65-44fe-b266-925548368edb">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 57 00" src="https://github.com/CastleCho/Podo/assets/109195660/bb35ae77-2a65-44fe-b266-925548368edb">
 <br>
 
 ## 프로젝트 소개
@@ -21,10 +24,16 @@
 
 <br>
 
-<img width="932" alt="스크린샷 2024-01-15 오후 3 50 08" src="https://github.com/CastleCho/Podo/assets/109195660/60fe3fe3-f666-4152-8f9a-9294c6861315">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 50 08" src="https://github.com/CastleCho/Podo/assets/109195660/60fe3fe3-f666-4152-8f9a-9294c6861315">
 
-<img width="859" alt="스크린샷 2024-01-15 오후 3 50 29" src="https://github.com/CastleCho/Podo/assets/109195660/284b5ca6-9d32-405e-be8e-c632d311e8a8">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 50 29" src="https://github.com/CastleCho/Podo/assets/109195660/284b5ca6-9d32-405e-be8e-c632d311e8a8">
 
-<img width="887" alt="스크린샷 2024-01-15 오후 3 50 45" src="https://github.com/CastleCho/Podo/assets/109195660/10c55924-0edc-49a5-b995-361d0d62be82">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 50 45" src="https://github.com/CastleCho/Podo/assets/109195660/10c55924-0edc-49a5-b995-361d0d62be82">
 
-<img width="920" alt="스크린샷 2024-01-15 오후 3 50 55" src="https://github.com/CastleCho/Podo/assets/109195660/f9cc61b6-c0e1-4e86-826d-c4b9c8f1a511">
+<img width="800" alt="스크린샷 2024-01-15 오후 3 50 55" src="https://github.com/CastleCho/Podo/assets/109195660/f9cc61b6-c0e1-4e86-826d-c4b9c8f1a511">
+
+## 프로젝트 향후 계획
+
+<img width="800" alt="스크린샷 2024-01-15 오후 4 10 47" src="https://github.com/CastleCho/Podo/assets/109195660/1446674f-d6d4-42f9-94e5-d75974cd4d86">
+
+<br>
